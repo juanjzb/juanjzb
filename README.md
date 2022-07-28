@@ -4,12 +4,10 @@
 <p align="center">
   <img src="https://c.tenor.com/QkKXbs5rBKcAAAAC/charizard-sprite-rage.gif" >
 </p>
+
 👨‍💻 Ingeniero de Sistemas
-
 🤖 Desarrollador de Software 
-
 👨‍🏫 Docente en Universidad Nacional de Ingeniería y Universidad Internacional de América Latina
-
 🌊​🌋​ De la tierra de Lagos y Volcanes, Nicaragua
 
 <img src="https://cdn76.picsart.com/209915339005202.gif?to=crop&type=webp&r=40x40&q=50" width="16" height="16"/> Fanatico de Pokemon

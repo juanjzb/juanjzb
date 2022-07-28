@@ -2,7 +2,7 @@
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <p align="center">
-  <img src="https://c.tenor.com/QkKXbs5rBKcAAAAC/charizard-sprite-rage.gif"  width="100" height="100">
+  <img src="https://c.tenor.com/QkKXbs5rBKcAAAAC/charizard-sprite-rage.gif"  width="180" height="180">
 </p>
 
 👨‍💻 Ingeniero de Sistemas

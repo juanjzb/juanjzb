@@ -54,29 +54,29 @@
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 <br>
 
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
-<br>
-
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-<br>
-
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg"/>
 <br>
 
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
+<br>
+  
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
 <br>
 
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original-wordmark.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
+<br>
+
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg"/>
 </p>
 
 

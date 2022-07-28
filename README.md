@@ -36,37 +36,44 @@
 
 
 <p align="center">
- <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
 <br>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-<br>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg"/>
-<br>
+
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
 <br>
+
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
 <br>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
+
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
 <br>
+
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+<br>
+
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg"/>
+<br>
+
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg"/>
 <br>
+
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original-wordmark.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>

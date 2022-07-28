@@ -1,9 +1,9 @@
 # Hi there 👋, I am JuanJzb
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-
-
+<p align="center">
+  <img src="https://c.tenor.com/QkKXbs5rBKcAAAAC/charizard-sprite-rage.gif" >
+</p>
 👨‍💻 Ingeniero de Sistemas
 
 🤖 Desarrollador de Software 
@@ -31,9 +31,7 @@
 
 
 
-<p align="center">
-  <img src="https://c.tenor.com/QkKXbs5rBKcAAAAC/charizard-sprite-rage.gif" >
-</p>
+
 <p align="center">
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg"/>
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>

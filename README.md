@@ -9,9 +9,8 @@
 
 🤖 Desarrollador de Software
 
-👨‍🏫 Docente en Universidad Nacional de Ingeniería y Universidad Internacional de América Latina
+👨‍🏫 Docente en Universidad Nacional de Ingeniería
 
-👨‍🎓 Estudiante de Licenciatura en Derecho
 <!--
 🌊​🌋​ De la tierra de Lagos y Volcanes, Nicaragua
 

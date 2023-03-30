@@ -9,12 +9,9 @@
 
 👨‍🏫 Docente en Universidad Nacional de Ingeniería
 
-<p align="center">
+
 <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/juanjzb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-</p>
-
-<!--

@@ -6,10 +6,10 @@
 - 👥 Professor for Systems Engineering at [UNI](https://www.uni.edu.ni)
 
 ## Skills
-- 👨‍💻 JavaScript, PHP, C#, VB Net
+- 🪛 JavaScript, PHP, C#, VB Net
 - ⚙️ React
-- 👁️ CSS, SASS
-- 💽 MySQL, SQL Server, PostgreSQL, MongoDB
+- 🎆 CSS, SASS
+- 🛢️ MySQL, SQL Server, PostgreSQL, MongoDB
 
 ## Contact
 <!-- [@martonlederer](https://twitter.com/martonlederer) on Twitter 

@@ -2,7 +2,7 @@
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <p align="center">
-  <img src="https://c.tenor.com/QkKXbs5rBKcAAAAC/charizard-sprite-rage.gif"  width="180" height="180">
+  <img src="https://media2.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b95248aff9ef39c1897d2d77de84b6d9f291c939fd38&rid=giphy.gif&ct=s"  width="180" height="180">
 </p>
 
 👨‍💻 Ingeniero de Sistemas
@@ -11,13 +11,6 @@
 
 👨‍🏫 Docente en Universidad Nacional de Ingeniería
 
-<!--
-🌊​🌋​ De la tierra de Lagos y Volcanes, Nicaragua
-
-<img src="https://cdn76.picsart.com/209915339005202.gif?to=crop&type=webp&r=40x40&q=50" width="16" height="16"/> Fanatico de Pokemon
-
-<img src="https://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/256/FC-Barcelona-icon.png" width="16" height="16"/> Barcelonista
--->
 <p align="center"
 <div id="badges">
 

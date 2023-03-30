@@ -1,5 +1,5 @@
 ## Hey! 👋
-<strong>I'm Juan Zeledon, a software developer from Nicaragua.</strong>
+<strong>I'm Juan José Zeledón Benavides, a software developer from Nicaragua.</strong>
 
 - 🧭 Graduated from [UNI](https://www.uni.edu.ni)
 
@@ -12,6 +12,6 @@
 - 🛢️ MySQL, SQL Server, PostgreSQL, MongoDB
 
 ## Contact
-[Juan Jose Zeledon Benavides](https://www.linkedin.com/in/juanjzb/) on LinkedIn 
+- [juanjzb](https://www.linkedin.com/in/juanjzb/) on LinkedIn 
 
 

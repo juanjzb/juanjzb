@@ -12,11 +12,6 @@
 - 🛢️ MySQL, SQL Server, PostgreSQL, MongoDB
 
 ## Contact
-<!-- [@martonlederer](https://twitter.com/martonlederer) on Twitter 
+[@juanjzb](https://www.linkedin.com/in/juanjzb/) on LinkedIn 
 
-<div id="badges">
-  <a target="_blank" href="https://www.linkedin.com/in/juanjzb/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
--->
+

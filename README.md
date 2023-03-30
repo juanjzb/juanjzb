@@ -6,9 +6,9 @@
 - 👥 Professor for Systems Engineering at [UNI](https://www.uni.edu.ni)
 
 ## Skills
-- 🪛 JavaScript, PHP, C#, VB Net
-- ⚙️ React
 - 🎆 HTML, CSS
+- 🪛 JavaScript, PHP, C#, VB Net, ASP Net
+- ⚙️ React, Laravel
 - 🛢️ MySQL, SQL Server, PostgreSQL, MongoDB
 
 ## Contact

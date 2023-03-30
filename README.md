@@ -1,9 +1,9 @@
 ## Hey! 👋
 <strong>I'm Juan José Zeledón Benavides, a software developer from Nicaragua.</strong>
 
-- 🧭 Graduated from [UNI](https://www.uni.edu.ni)
+- 🧭 Systems Engineer graduated from [UNI](https://www.uni.edu.ni)
 
-- 👥 Professor for Systems Engineering at [UNI](https://www.uni.edu.ni)
+- 👥 Professor at [UNI](https://www.uni.edu.ni)
 
 ## Skills
 - 🎆 HTML, CSS

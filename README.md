@@ -8,7 +8,7 @@
 ## Skills
 - 🪛 JavaScript, PHP, C#, VB Net
 - ⚙️ React
-- 🎆 CSS, SASS
+- 🎆 HTML, CSS
 - 🛢️ MySQL, SQL Server, PostgreSQL, MongoDB
 
 ## Contact

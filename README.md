@@ -12,6 +12,6 @@
 - 🛢️ MySQL, SQL Server, PostgreSQL, MongoDB
 
 ## Contact
-[@juanjzb](https://www.linkedin.com/in/juanjzb/) on LinkedIn 
+[Juan Jose Zeledon Benavides](https://www.linkedin.com/in/juanjzb/) on LinkedIn 
 
 

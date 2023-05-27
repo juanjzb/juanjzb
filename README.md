@@ -7,9 +7,9 @@
 - 👥 Professor at [UNI](https://www.uni.edu.ni)
 
 ## Skills
-- 🎆 HTML, CSS
+- 🎆 HTML, CSS, SASS
 - 🪛 JavaScript, PHP, C#, VB Net, ASP Net
-- ⚙️ React, Laravel
+- ⚙️ React, Laravel, Express
 - 🛢️ MySQL, SQL Server, PostgreSQL, MongoDB
 
 ## Contact

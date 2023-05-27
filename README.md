@@ -1,6 +1,6 @@
 ## Hey! 👋
-<strong>This is Juan José Zeledón Benavides</strong><br>
-<strong>I am a software developer from Nicaragua.</strong>
+<strong>I am Juan José Zeledón Benavides</strong><br>
+<strong>Sofware Developer.</strong>
 
 - 🧭 Systems Engineer graduated from [UNI](https://www.uni.edu.ni)
 

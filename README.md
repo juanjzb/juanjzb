@@ -1,6 +1,6 @@
 ## Hey! 👋
 <strong>I am Juan José Zeledón Benavides</strong><br>
-<strong>Sofware Developer</strong>
+<strong>Software Developer</strong>
 
 - 🧭 Systems Engineer graduated from [UNI](https://www.uni.edu.ni)
 

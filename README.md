@@ -1,10 +1,16 @@
 ## Hey! 👋
 <strong>I am Juan José Zeledón Benavides</strong><br>
-<strong>Software Developer</strong>
+<strong>Software Engineer</strong>
 
-- 🧭 Systems Engineer graduated from [UNI](https://www.uni.edu.ni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://www.linkedin.com/in/juanjzb/)
 
-- 👥 Professor at [UNI](https://www.uni.edu.ni)
+- 👨‍🎓 Systems Engineer graduated from [UNI](https://www.uni.edu.ni)
+
+## Work Experience
+- 👨‍🏫 Professor at [UNI](https://www.uni.edu.ni) - 🗓️ May 2021 to December 2023
+- 👨‍💻 Software Engineer at SDA Global Corp - 🗓️ Sept 2019 to Aug 2022
+- 👨‍🏫 Professor at UNIVAL - 🗓️ Oct 2015 to December 2022
+- 👨🏻‍💼 Head of the IT Department at AGROTECNISA & Grupo Zalan (NI - HN) - 🗓️ Aug 2017 to Aug 2018
 
 ## Skills
 - 🎆 HTML, CSS, SASS
@@ -13,6 +19,12 @@
 - 🛢️ MySQL, SQL Server, PostgreSQL, MongoDB
 
 ## Contact
-- [juanjzb](https://www.linkedin.com/in/juanjzb/) on LinkedIn 
+- :email: zb.juanjose@gmail.com
+  
+
+
+
+
+
 
 

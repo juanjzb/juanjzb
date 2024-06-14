@@ -17,7 +17,7 @@
 - ⚙️ React, Express (With Typescript)
 - 🛢️ MySQL, SQL Server, PostgreSQL, MongoDB
 
-- ➕ also (Vanilla PHP,C# + EF + LinQ, VB.Net, Wordpress) 
+- ➕ also (Vanilla PHP, C# + EF + LINQ, VB.Net, Wordpress) 
 
 ## 📫 How to reach me
 - :email: zb.juanjose@gmail.com

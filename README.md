@@ -7,7 +7,7 @@
 - 👨‍🎓 Systems Engineer graduated from [UNI](https://www.uni.edu.ni)
 
 ## 🔨 Professional Experience
-- 🧺 Co-owner of [Productos del Campo](https://juanjzb.github.io/productos-del-campo/) - 🗓️ Present
+- 🧺 Co-owner of [Productos del Campo](https://juanjzb.github.io/productos-del-campo/) - 🗓️ May 2025 - Present
 - 👨🏻‍🌾 Working on a Cane and Coffee Farm - 🗓️ December 2023 - Present
 - 👨‍🏫 Professor at [UNI](https://www.uni.edu.ni) - 🗓️ May 2021 to December 2023
 - 👨‍💻 Software Engineer at SDA Global Corp - 🗓️ Sept 2019 to Aug 2022

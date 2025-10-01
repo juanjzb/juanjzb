@@ -7,6 +7,7 @@
 - 👨‍🎓 Systems Engineer graduated from [UNI](https://www.uni.edu.ni)
 
 ## 🔨 Professional Experience
+- 🧺 Co-owner of [Productos del Campo](https://juanjzb.github.io/productos-del-campo/) - 🗓️ Present
 - 👨🏻‍🌾 Working on a Cane and Coffee Farm - 🗓️ December 2023 - Present
 - 👨‍🏫 Professor at [UNI](https://www.uni.edu.ni) - 🗓️ May 2021 to December 2023
 - 👨‍💻 Software Engineer at SDA Global Corp - 🗓️ Sept 2019 to Aug 2022
@@ -15,7 +16,7 @@
 
 ## 🧰 Skills (Ask me about ...)
 - 🎆 HTML, CSS, JavaScript
-- ⚙️ React, Express (With Typescript)
+- ⚙️ Astro, React, Express (With Typescript)
 - 🛢️ MySQL, SQL Server, PostgreSQL, MongoDB
 
 - ➕ also (Vanilla PHP, C# + EF + LINQ, VB.Net, Wordpress) 
